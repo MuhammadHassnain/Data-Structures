@@ -8,3 +8,6 @@ Fixed size template stack data structure using array with additional feature of 
 
 ## 2. DynamicStack.h
 Templatized Stack Data Structure with unlimited push and pop operation.
+
+## 3. Heap.h
+Templatized Heap Data Structure.
